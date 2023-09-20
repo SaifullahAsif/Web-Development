@@ -1,0 +1,28 @@
+nav > ul > li{
+    display: inline;
+    position: relative;
+}
+img {
+    width: 50px;
+    height: 50px;
+}
+.container {
+   color: black;
+   display: flex;
+   flex-wrap: wrap;
+}
+.container_item {
+    display: flex;
+    border: 2px solid black;
+    flex-flow: row wrap;
+}
+
+.item1 {
+    background-color: brown;
+}
+.item2 {
+    background-color: blueviolet;
+}
+.item3 {
+    background-color: grey;
+}
